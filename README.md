@@ -1,4 +1,4 @@
-# script-hack-credential
+# TheAllSeer - Nuclear Extraction Script
 
 🔍 Main function:
 Searches for and displays in the console any credential-related information (usernames, passwords, tokens) stored or visible on the current webpage.
