@@ -101,53 +101,12 @@ Session IDs
 
 Credentials stored in localStorage
 
-----------------------------------------------------------------------------------------------------
-🔥 THEALLSEER NUCLEAR EXTRACTION SCRIPT 🔥
-⚠️  ONLY FOR YOUR OWN ACCOUNTS ⚠️
-
-📦 LOCALSTORAGE (COMPLETE)
-  theme: "dark-mode"
-  user_preferences: {"language":"es","notifications":true}
-  last_visit: "2024-03-03T10:30:00Z"
-  session_id: "sess_abc123def456"
-  app_state: {"page":"dashboard","filters":{}}
-
-📦 SESSIONSTORAGE (COMPLETE)
-  temp_data: {"formData":{"name":"Demo","email":"demo@test.com"}}
-  current_step: "checkout"
-  wizard_state: "step3"
-
-🍪 COOKIES (COMPLETE)
-  PHPSESSID: "abc123def456ghi789"
-  cookie_consent: "accepted"
-  _ga: "GA1.2.123456789.1678901234"
-
-📝 FORM INPUTS
-  username (text): "demo_user"
-  password (password): "••••••••••"
-  email (email): "demo@example.com"
-  api_token (hidden): "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
-  csrf_token (hidden): "csrf_abc123def456"
-
-📊 COMPLETE REPORT
-Total LocalStorage: 5
-Total SessionStorage: 3
-Total Cookies: 3
-Total Inputs: 5
-
-📋 SENSITIVE DATA FOUND:
-┌──────────┬────────────┬────────────────────────────────────┐
-│ (index)  │ nombre     │ value                              │
-├──────────┼────────────┼────────────────────────────────────┤
-│ 0        │ username   │ "demo_user"                        │
-│ 1        │ password   │ "••••••••••"                       │
-│ 2        │ email      │ "demo@example.com"                 │
-│ 3        │ api_token  │ "eyJhbGciOiJIUzI1NiIsInR5cCI6..."  │
-└──────────┴────────────┴────────────────────────────────────┘
-
-✅ DATA COPIED TO CLIPBOARD
-🔒 REMEMBER: Only for your own accounts
 Data from autofilled forms
+
+---------------------------------------------------------------
+
+<img width="772" height="551" alt="theallseer" src="https://github.com/user-attachments/assets/c27dbfa6-12b8-4978-9db7-dfd58390731d" />
+
 
 Any sensitive information in memory
 
