@@ -105,4 +105,3 @@ Data from autofilled forms
 
 Any sensitive information in memory
 
-❌ DO NOT use it on sites where you are not authorized
