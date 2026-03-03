@@ -103,10 +103,11 @@ Credentials stored in localStorage
 
 Data from autofilled forms
 
+
+
 ---------------------------------------------------------------
 
 <img width="772" height="551" alt="theallseer" src="https://github.com/user-attachments/assets/c27dbfa6-12b8-4978-9db7-dfd58390731d" />
-
 
 Any sensitive information in memory
 
